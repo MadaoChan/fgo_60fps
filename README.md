@@ -1,4 +1,4 @@
-# Fate/Grand Order Android客户端开启60帧的方法
+# Fate/Grand Order FGO Android客户端开启60帧的方法
 ### 注：使用Mumu模拟器，在国服v1.66.0版本测试可行，需要root。
 原理修改游戏的SharedPreference文件
 
